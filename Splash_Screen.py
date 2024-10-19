@@ -61,6 +61,6 @@ with placeholder.container():
 placeholder.empty()
 
 # Switch to the selected page
-st.switch_page("FeatureOffering")  # Use the exact name without .py
+st.switch_page("./FeatureOffering")  # Use the exact name without .py
 
  
