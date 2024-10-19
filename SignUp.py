@@ -124,4 +124,4 @@ if continue_btn:
     st.success("Details saved successfully!")
     
     # Switch to the next page (assuming page navigation setup)
-    st.switch_page("./pages/Address.py")
+    st.switch_page("Address")
