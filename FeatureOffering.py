@@ -72,6 +72,6 @@ with st.container():
     continue_btn = st.button("Continue")
     if continue_btn:
         # Switch to the selected page
-        st.switch_page("./pages/Landing.py")
+        st.switch_page("Landing")
         
     st.markdown('</div>', unsafe_allow_html=True)
